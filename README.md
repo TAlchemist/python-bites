@@ -1,1 +1,1 @@
-# python-bites
+#  A collection of python bites
