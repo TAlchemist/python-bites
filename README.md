@@ -18,11 +18,11 @@ These are the bites available:
 
 # 2. You can find all the videos in the playlist below:
 
-If you are a member of Curbal YouTube channel, you will get early access to the bites that are available.
+If you are a member of Curbal YouTube channel, you will get early access to the bites as soon as they become available.
 Join here: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join
 
 
 [![All the videos can be found here](https://img.youtube.com/vi/ZgqnPYmEcXw/0.jpg)](https://www.youtube.com/watch?v=ZgqnPYmEcXw&list=PLDz00l_jz6zzI8iPHyXka89gISYkwxk3e)
 
-And all the code in the folders of these repository.
+
 
