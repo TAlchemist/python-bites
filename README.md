@@ -6,11 +6,13 @@ To solve the game, we will need to use data, and that is how numpy, pandas and m
 
 Every week, I will go through the theory needed to build it and leave it up to you to put it together or finalize the build.
 
+# 1.Bites I have so far
+
 These are the bites available:
-  Bite 1: Print, user input, variables
-  Bite 2: Functions, global and local variables
-  Bite 3: if statements
-  Bite 4: Validate user input in python
+* Bite 1: Print, user input, variables
+* Bite 2: Functions, global and local variables
+* Bite 3: if statements
+* Bite 4: Validate user input in python
 
 You can find all the videos in the playlist below:
 
